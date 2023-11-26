@@ -1,4 +1,4 @@
-﻿;-----------------------------------------
+ ﻿;-----------------------------------------
 ; AutoHotKey Script for Almost Complete Mac Keyboard Transformation for Windows 11
 ; AutoHotKey Version:		1.x
 ; Language:					English
